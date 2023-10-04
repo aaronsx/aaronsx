@@ -69,7 +69,11 @@
 <!--- stats (end) -->
 
 <!--- trophy (start) -->
-
+<div align=left>
+  <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
+      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=fragalado&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
+    </a>
+</div>
 <!--- trophy (start) -->
 </p>        
 <!--- stats (end) -->
@@ -81,7 +85,7 @@
 <div align="center">
 
 
-[![](https://visitcount.itsvg.in/api?id=aaronsx&label=Profile%20Views&color=1&pretty=false)](https://visitcount.itsvg.in)
+![](https://visitcount.itsvg.in/api?id=aaronsx&label=Profile%20Views&color=0&pretty=false)
 
 </div>
 <!--- snake -->
