@@ -70,18 +70,14 @@
 
 <!--- trophy (start) -->
 
-<div align=left>
-  <a title="Go to Source">
-      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=aaronsx&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
-    </a>
-</div>
+
 
 <!--- trophy (start) -->
 </p>        
 <!--- stats (end) -->
 
 <br>
-
+<br>
 <!--profile visit count-->
 
 <div align="center">
