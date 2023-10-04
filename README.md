@@ -66,16 +66,6 @@
 </table>
 <!--- stats (end) -->
 
-<!--- trophy (start) -->
-
-<div align=left>
-  <a title="Go to Source">
-      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=aaronsx&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="AARON" />
-    </a>
-</div>
-
-
-
 <!--- snake -->
 <div align="center">
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
