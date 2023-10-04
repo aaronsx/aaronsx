@@ -58,7 +58,7 @@
 <td width="50%" align="center">
 
   <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=aaronsx&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=7"/>
-
+<br><br>
   </td>
 </tr>
 </table>
@@ -80,8 +80,9 @@
 </div>
 
 
-
-<p align="left"><img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif"/></p>
-
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Self-taught+Front-End+Developer,;Computer+Science+Student,;CTF+Newbie,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3">
+</div>
+<p align="left"><img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif"/></p>
