@@ -6,7 +6,7 @@
 <!--About Me-->
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 30px></picture> About me
 
-<picture> <img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHNvZGk0d3I0bWtrYWxoMG4yaHp3ODEzenZlbG1rdW9oMmpneXJ3cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3og0ILLVvPp8d64Jd6/giphy.gif" width = 300px></picture>
+<picture> <img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHNvZGk0d3I0bWtrYWxoMG4yaHp3ODEzenZlbG1rdW9oMmpneXJ3cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3og0ILLVvPp8d64Jd6/giphy.gif" width = 200px></picture>
 
 - 🧑‍🎓  I am a **Student** at [Altair](https://altair.edu.es/) in [Seville, Spain](https://www.google.com/search?q=sevilla&rlz=1C1UEAD_esES1075ES1075&oq=sevilla&gs_lcrp=EgZjaHJvbWUqBwgAEAAYjwIyBwgAEAAYjwIyDQgBEC4YgwEYsQMYgAQyDQgCEC4YgwEYsQMYgAQyDQgDEAAYgwEYsQMYgAQyDQgEEAAYgwEYsQMYgAQyDQgFEAAYgwEYsQMYgAQyBggGEEUYPTIGCAcQRRg80gEIMTM2MGowajeoAgCwAgA&sourceid=chrome&ie=UTF-8)
 - 👨🏽‍💻 **Currently working on** `Frontend Development` **&** `Backend Development`
