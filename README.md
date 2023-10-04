@@ -22,7 +22,7 @@
 ![Java Spring](https://img.shields.io/badge/-Spring-222222?style=flat&logo=spring&logoColor=6DB33F)
 
 ---
-##### Estadisticas
+## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 30px>  </picture> Github Stats
 ![aaronsx's GitHub stats](https://github-readme-stats.vercel.app/api?username=aaronsx&show_icons=true&theme=radical)
 
 ---
