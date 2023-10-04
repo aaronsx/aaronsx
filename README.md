@@ -40,13 +40,39 @@
 
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/OS.gif?raw=true" width = 20px>  </picture> Operating Systems
 
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-E95420?style=flat&logo=linuxlogoColor=white)
+![Windows](https://img.shields.io/badge/-Windows-000000?style=flat&logo=Windows&logoColor=1572B6)
+![Linux](https://img.shields.io/badge/-Linux-000000?style=flat&logo=linux&logoColor=E95420)
 
 
 
-## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 30px>  </picture> Github Stats
-![aaronsx's GitHub stats](https://github-readme-stats.vercel.app/api?username=aaronsx&show_icons=true&theme=radical)
+<!--- stats & Trophy (start) -->
+
+<p align="left">
+  <!--- stats (start) -->
+<table align="left">
+<tr border="none">
+<td width="50%" align="center">
+  <img  align="left"  src="https://github-readme-stats.vercel.app/api?username=aaronsx&theme=dark&show_icons=true&count_private=true" />
+  <br></br>
+  <img   alt="Aaron" src="https://github-readme-streak-stats.herokuapp.com/?user=aaronsx&theme=dark&hide_border=false" /> 
+</td>
+
+<td width="50%" align="center">
+
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=aaronsx&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=7"/>
+
+  </td>
+</tr>
+</table>
+<!--- stats (end) -->
+
+<!--- trophy (start) -->
+
+<div align=left>
+  <a title="Go to Source">
+      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=aaronsx&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="AARON" />
+    </a>
+</div>
 
 
 
