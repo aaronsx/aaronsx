@@ -42,7 +42,7 @@
 ![Linux](https://img.shields.io/badge/-Linux-E95420?style=flat&logo=linuxlogoColor=white)
 
 
----
+
 ## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 30px>  </picture> Github Stats
 ![aaronsx's GitHub stats](https://github-readme-stats.vercel.app/api?username=aaronsx&show_icons=true&theme=radical)
 
@@ -53,8 +53,9 @@
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
        alt="snake" /></a>
 </div>
----
-#####
+
+
+
 <p align="left"><img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif"/></p>
 
 <!--horizontal divider(gradiant)-->
