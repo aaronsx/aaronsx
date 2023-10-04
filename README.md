@@ -53,8 +53,6 @@
 <tr border="none">
 <td width="50%" align="center">
   <img  align="left"  src="https://github-readme-stats.vercel.app/api?username=aaronsx&theme=dark&show_icons=true&count_private=true" />
-  <br></br>
-  <img   alt="Aaron" src="https://github-readme-streak-stats.herokuapp.com/?user=aaronsx&theme=dark&hide_border=false" /> 
 </td>
 
 <td width="50%" align="center">
@@ -65,7 +63,16 @@
 </tr>
 </table>
 <!--- stats (end) -->
+<br>
 
+<!--profile visit count-->
+
+<div align="center">
+
+
+[![](https://visitcount.itsvg.in/api?id=aaronsx&label=Profile%20Views&color=1&pretty=false)](https://visitcount.itsvg.in)
+
+</div>
 <!--- snake -->
 <div align="center">
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
