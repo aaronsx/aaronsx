@@ -107,6 +107,6 @@
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Young+Serif&pause=1000&color=E002F7&width=435&lines=Self-taught+Front-End+Developer%2C;Computer+Science+Student%2C;CTF+Newbie%2C;Active+Learner%2FResearcher%2C" º/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Young+Serif&pause=1000&color=E002F7&width=435&lines=Self-taught+Front-End+Developer%2C;Computer+Science+Student%2C;CTF+Newbie%2C;Active+Learner%2FResearcher%2C"/>
 </div>
 <p align="center"><img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif"/></p>
