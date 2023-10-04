@@ -1,7 +1,7 @@
 
 <img src="https://github.com/aaronsx/aaronsx/blob/main/svg.svg"/>
 
-
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 30px></picture> About me
 
 ---
 ##### Languages I use
