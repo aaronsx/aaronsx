@@ -54,41 +54,7 @@
 
 ## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 30px>  </picture> Github Stats
 
-<!--- stats & Trophy (start) -->
 
-<p align="left">
-  <!--- stats (start) -->
-<table align="left">
-<tr border="none">
-<td width="50%" align="center">
-  <img  align="left"  src="https://github-readme-stats.vercel.app/api?username=aaronsx&theme=dark&show_icons=true&count_private=true" />
-  <br></br>
-  <img  title="🔥Aaron" alt="Aaron" src="http://github-readme-streak-stats.herokuapp.com?user=aaronsx&theme=dark&hide_border=true&locale=es/> 
-</td>
-
-<td width="50%" align="center">
-
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=aaronsx&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=7"/>
-  </td>
-</tr>
-</table>
-<!--- stats (end) -->
-
-<!--- trophy (start) -->
-<div align=left>
-  <a >
-      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=aaronsx&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="Aaron" />
-    </a>
-</div>
-<!--- trophy (start) -->
-</p>        
-<!--- stats (end) -->
-
-<br>
-<br>
-<!--profile visit count-->
-
-<div align="center">
 
 
 ![](https://visitcount.itsvg.in/api?id=aaronsx&label=Profile%20Views&color=0&pretty=false)
