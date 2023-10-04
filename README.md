@@ -63,7 +63,7 @@
 <td width="50%" align="center">
   <img  align="left"  src="https://github-readme-stats.vercel.app/api?username=aaronsx&theme=dark&show_icons=true&count_private=true" />
   <br></br>
-  <img  title="🔥Aaron" alt="Aaron" src="http://github-readme-streak-stats.herokuapp.com?user=aaronsx&theme=dark&hide_border=true&locale=es" /> 
+  <img  title="🔥Aaron" alt="Aaron" src="http://github-readme-streak-stats.herokuapp.com?user=aaronsx&theme=dark&hide_border=true&locale=es/> 
 </td>
 
 <td width="50%" align="center">
