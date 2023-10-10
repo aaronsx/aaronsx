@@ -10,7 +10,7 @@
 
 - 🧑‍🎓  I am a **Student** at [Altair](https://altair.edu.es/) in [Seville, Spain](https://www.google.com/search?q=sevilla&rlz=1C1UEAD_esES1075ES1075&oq=sevilla&gs_lcrp=EgZjaHJvbWUqBwgAEAAYjwIyBwgAEAAYjwIyDQgBEC4YgwEYsQMYgAQyDQgCEC4YgwEYsQMYgAQyDQgDEAAYgwEYsQMYgAQyDQgEEAAYgwEYsQMYgAQyDQgFEAAYgwEYsQMYgAQyBggGEEUYPTIGCAcQRRg80gEIMTM2MGowajeoAgCwAgA&sourceid=chrome&ie=UTF-8)
 - 👨🏽‍💻 **Currently working on** `Frontend Development` **&** `Backend Development`
-- 📧 Feel free to **reach me out** [![Send me Email](https://img.shields.io/static/v1?label=email&amp;message=aaronsx&amp;color=e337fa&amp;style=flat-square)]
+- 📧 Feel free to **reach me out** ![Send me Email](https://img.shields.io/static/v1?label=email&amp;message=aaronsx&amp;color=e337fa&amp;style=flat-square)
 
 <br>
 
